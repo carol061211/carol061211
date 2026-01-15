@@ -5,13 +5,18 @@
 
 - 📚 I’m studying to complete my bachelors degree in Computer Science. 
 
-- 🤔 Learning C++
+- 🤔 Learning Java and MySQL
 
 - 👨🏻‍💻 Enjoy doing Mathematics.
 
 - 🧠 I like to learn something new.
 
 - 📫 How to reach me **adekponyacarol@gmail.com**
+
+- 🐞 Connect with me on Linkedin **www.linkedin.com/in/carol-adekponya-221b6624a**
+
+### Skills/Languages
+- ⭐ C++
 
 ### Education
 
