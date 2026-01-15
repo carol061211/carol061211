@@ -11,7 +11,7 @@
 
 - 🧠 I like to learn something new.
 
-- 📫 How to reach me **caadek01@wsc.edu**
+- 📫 How to reach me **adekponyacarol@gmail.com**
 
 ### Education
 
